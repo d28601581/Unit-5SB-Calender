@@ -1,0 +1,18 @@
+{
+  "name": "w1-s2-calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.0"
+  }
+}
